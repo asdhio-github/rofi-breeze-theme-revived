@@ -1,7 +1,6 @@
-# This repository is no longer maintained
-
 # rofi-breeze-theme
-A rofi theme inspired by breeze from kde plasma.
+A rofi theme inspired by the Breeze theme from KDE Plasma.
+If you have any additions or fixes, feel free to open a pull request so I can merge it.
 
 ### Light theme
 ![light theme](./light.png)
