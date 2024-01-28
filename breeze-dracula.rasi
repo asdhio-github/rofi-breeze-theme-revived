@@ -147,6 +147,7 @@ configuration {
 
 #prompt {
     padding: 3 7 3 0;
+    enabled: false;
 }
 
 /* vim:ft=css
