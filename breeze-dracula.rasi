@@ -49,6 +49,8 @@ configuration {
     border-radius: 3;
     border-color: @default-border;
     padding: 7;
+    location:       north;
+    y-offset:       calc(50% - 276px);
 }
 
 #mainbox {
